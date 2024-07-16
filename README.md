@@ -1,4 +1,4 @@
-# Library Management System
+# Car Services And Repair System 
 
 This is a simple object oriented programming written in Java. The system allows for customer to request various types of service on their own cars and make payment while staff able to manage the booking request and see invoice made by customer.
 
